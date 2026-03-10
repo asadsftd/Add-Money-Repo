@@ -17,11 +17,3 @@ button{
 
 
 
-@media screen and (max-width:576px) {
-    #header{
-        width: 90%;
-        margin: auto;
-        background-color: none;
-    }
-   
-}

@@ -1,0 +1,16 @@
+label{
+    font-size: 25px;
+
+}
+input{
+    outline: none;
+    border-radius: 12px;
+    cursor: pointer;
+}
+input:focus{
+    border: 2px solid greenyellow;
+}
+button{
+    border-radius: 12px;
+    
+}

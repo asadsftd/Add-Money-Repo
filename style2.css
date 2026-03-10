@@ -1,6 +1,40 @@
 label,#bank{
     font-size: 25px;
+}
+#card-three{
+    
+    border-radius: 12px;
+}
+#card-four{
+    
+    border-radius: 12px;
+}
+#card-five{
+    
+    border-radius: 12px;
+}
+#card-six{
+    
+    border-radius: 12px;
+}
+#card-one{
+    transition: 1.5s ease;
+    border-radius: 12px;
+}
+#card-two{
+    transition: 1.5s ease;
+    border-radius: 12px;
+}
+#card-two:hover{
+    background-color: lightgreen;
+    border: 2px solid rgb(235, 253, 181);
+    transition: 1.5s ease-in-out;
+}
 
+#card-one:hover{
+    background-color: lightgreen;
+    border: 2px solid rgb(235, 253, 181);
+    transition: 1.5s ease-in-out;
 }
 input{
     outline: none;

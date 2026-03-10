@@ -1,4 +1,4 @@
-label{
+label,#bank{
     font-size: 25px;
 
 }
@@ -14,7 +14,13 @@ button{
     border-radius: 12px;
     
 }
-
+#banker{
+    outline: none;
+    border-radius: 12px;
+}
+#banker:focus{
+    border: 2px solid lightgreen;
+}
 
 @media screen and (max-width:576px) {
     #header{

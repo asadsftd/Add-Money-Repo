@@ -18,5 +18,11 @@ button{
 
 
 @media screen and (max-width:576px) {
-    
+    #header{
+        width: 80%;
+        margin: auto;
+    }
+    body{
+        background-color: lightgreen;
+    }
 }

@@ -21,6 +21,14 @@ button{
 #banker:focus{
     border: 2px solid lightgreen;
 }
+#cash-out{
+    max-width: 390px;
+    margin: 40px auto;
+}
+#add-money{
+    max-width: 390px;
+    margin: 40px auto;
+}
 
 @media screen and (max-width:576px) {
     #header{
